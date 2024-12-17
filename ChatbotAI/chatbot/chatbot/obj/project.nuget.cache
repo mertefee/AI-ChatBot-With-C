@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMQkJN1bCQQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mert Efe\\Desktop\\ChatbotAI\\chatbot\\chatbot\\chatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mert Efe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Mert Efe\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
